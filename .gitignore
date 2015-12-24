@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+
+prudential/python/.idea/workspace.xml
+prudential/R/out_for_pylearn2/train.csv
+prudential/R/out_for_pylearn2/train_mini.csv
+prudential/R/out_for_pylearn2/valid_mini.csv
+
+prudential/~$memo_prudential.xlsx
+
+prudential/~$memo_prudential.xlsx
+
+prudential/R/.RDataTmp
+
+prudential/python/main/model.pkl
